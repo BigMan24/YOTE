@@ -12,7 +12,7 @@ Open up code.py
 
 save code.py in C drive, users and your user profile.
 
-In the Thonny system shell, type - py code.py - and it will open a window
+In the Thonny system shell, type - python code.py - and it will open a window
 
 Username = user
 Password = password
