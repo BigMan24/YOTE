@@ -8,9 +8,9 @@ Once Thonny is installed, press on tools and and press 'open system shell'
 
 Once open, type - pip3 install webbrowser - this will install webbrowser, if it comes up saying it can't find it this is okay, just continue.
 
-Open up code.py
+Copy the code from code.py and paste it into atom.
 
-save code.py in C drive, users and your user profile.
+save the code as code.py in C drive, users and your user profile.
 
 In the Thonny system shell, type - python code.py - and it will open a window
 
